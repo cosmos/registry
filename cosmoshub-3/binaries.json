@@ -1,0 +1,6 @@
+{
+  "name": "gaiad",
+  "repo": "https://github.com/cosmos/gaia",
+  "build": "make install",
+  "version": "v2.0.13"
+}
