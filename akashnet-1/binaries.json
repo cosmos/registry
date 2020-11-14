@@ -1,0 +1,6 @@
+{
+  "name": "akashd",
+  "repo": "https://github.com/ovrclk/akash",
+  "build": "make install",
+  "version": "v0.8.2"
+}
