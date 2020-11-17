@@ -1,0 +1,6 @@
+{
+  "name": "pooltoyd",
+  "repo": "https://github.com/interchainberlin/pool-toy",
+  "build": "make install",
+  "version": "v0.0.0"
+}
