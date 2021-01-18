@@ -1,8 +1,3 @@
----
-title: cosmos registry readme
-tags: cosmos registry, github, readme
----
-
 # Overview
 
 This repository holds data chains in the cosmos ecosystem, the [registrar](https://github.com/cosmos/cosmos-registrar) can be used to submit chains for the registry.
