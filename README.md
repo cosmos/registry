@@ -14,7 +14,7 @@ Creation and maintain a global chain registry, to applications to discover and c
 * Introduce state of chains to navigate active/inactive chains easily
 * Make the submission process as easy as possible with [cosmos-registrar](https://github.com/cosmos/cosmos-registrar)
 
-To utilize a github repository is seen as an intermediate solution by parts of the interchain community that could be replaced by a more decentralized approach like a registry chain or a solution that is achored on an existing chain in the future.
+To utilize a github repository is seen as an intermediate solution by parts of the interchain community that could be replaced by a more decentralized approach like a registry chain or a solution that is anchored on an existing chain in the future.
 
 # Roadmap
 
