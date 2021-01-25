@@ -1,6 +1,6 @@
 # Overview
 
-This repository holds data chains in the cosmos ecosystem, the [registrar](https://github.com/cosmos/cosmos-registrar) can be used to submit chains for the registry.
+This repository holds data for chains in the cosmos ecosystem, the [registrar](https://github.com/cosmos/cosmos-registrar) can be used to submit chains to the registry.
 
 # Motivation
 Conversations in the Interchain UX Working group and [Chain Agnostic Improvement Proposals](https://github.com/ChainAgnostic/CAIPs/issues/27) around multi-chain assets have shown the need for a registry to discover chains and keep basic information up-to-date in order to enable communication with these chains.
