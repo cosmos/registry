@@ -7,7 +7,7 @@ Conversations in the Interchain [UX Working Group](http://hackmd.io/@okwme/ux-wg
 
 
 # Goal
-Creation and maintain a global chain registry, to applications to discover and communicate with different chains that support the [IBC protocol](https://github.com/cosmos/ics). 
+Create and maintain a global chain registry for applications to discover and communicate with different chains that support the [IBC protocol](https://github.com/cosmos/ics). 
 
 * Allow contributors to take ownership of the data they submit
 * Provide all information necessary to communicate with each chain
