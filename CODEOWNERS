@@ -1,19 +1,5 @@
-# CODEOWNERS defines individuals or teams that are
-# responsible for code in this repository.
-#
-# For documentation please read:
-# https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
-#
-
-# Order is important; the last matching pattern takes the most
-# precedence.
-
-# Set global owners. Also affects the CODEOWNERS file.
-
-*                 @okwme @jackzampolin @cosmos/ape-unit_registry_write
-
-# Set owner of each subfolder. The `/` is important.
-
-/akashnet-1/      @jackzampolin
-/cosmoshub-3/     @jackzampolin
-/pooltoy-2/       @okwme
+*                         @okwme @jackzampolin @cosmos/ape-unit_registry_write
+/akashnet-1/              @jackzampolin
+/cosmoshub-3/             @jackzampolin
+/pooltoy-2/               @okwme
+/localnet/                @randomshinichi
