@@ -1,1 +1,42 @@
-[{"id":"cfd785a4224c7940e9a10f6c1ab24c343e923bec","address":"http://164.68.107.188:26657","is_seed":true,"last_contact_height":6766717,"last_contact_date":"2021-06-30T14:07:50.615825315+02:00","updated_at":"2021-06-30T14:07:50.615825315+02:00","reachable":true}]
+[
+  {
+    "id": "5a46d9cd72c0c4e878a0908d2a8590abacf9240b",
+    "address": "http://135.181.181.247:26657",
+    "last_contact_height": 6766806,
+    "last_contact_date": "2021-06-30T14:18:54.450037782+02:00",
+    "updated_at": "2021-06-30T14:18:54.450038471+02:00",
+    "reachable": true
+  },
+  {
+    "id": "612d4cdc5ff2a10616150b1e20c147e30a9667c3",
+    "address": "http://95.216.225.98:26657",
+    "last_contact_height": 6766806,
+    "last_contact_date": "2021-06-30T14:18:54.418433033+02:00",
+    "updated_at": "2021-06-30T14:18:54.418433341+02:00",
+    "reachable": true
+  },
+  {
+    "id": "a6f325ea73533648fd3176e612915a83e2a2572f",
+    "address": "http://139.59.70.20:26657",
+    "last_contact_height": 6766801,
+    "last_contact_date": "2021-06-30T14:18:54.743302841+02:00",
+    "updated_at": "2021-06-30T14:18:54.743303266+02:00",
+    "reachable": true
+  },
+  {
+    "id": "cbd79ed2b90092b84c8d0bffb7604b3c7756798a",
+    "address": "http://95.216.1.108:26657",
+    "last_contact_height": 6766806,
+    "last_contact_date": "2021-06-30T14:18:54.423946842+02:00",
+    "updated_at": "2021-06-30T14:18:54.423947256+02:00",
+    "reachable": true
+  },
+  {
+    "id": "ecabafa929464f54e91a61b3eaaf2db62709baa0",
+    "address": "http://116.203.57.175:26657",
+    "last_contact_height": 6766806,
+    "last_contact_date": "2021-06-30T14:18:54.401493492+02:00",
+    "updated_at": "2021-06-30T14:18:54.401493847+02:00",
+    "reachable": true
+  }
+]
