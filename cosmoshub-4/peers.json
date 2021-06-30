@@ -1,42 +1,81 @@
 [
   {
-    "id": "5a46d9cd72c0c4e878a0908d2a8590abacf9240b",
-    "address": "http://135.181.181.247:26657",
-    "last_contact_height": 6766806,
-    "last_contact_date": "2021-06-30T14:18:54.450037782+02:00",
-    "updated_at": "2021-06-30T14:18:54.450038471+02:00",
+    "id": "0909be0bf24301ae485002dc2d99a8c9dcd327f2",
+    "address": "http://159.138.10.224:26657",
+    "last_contact_height": 6766886,
+    "last_contact_date": "2021-06-30T14:28:49.718233475+02:00",
+    "updated_at": "2021-06-30T14:28:49.718233959+02:00",
     "reachable": true
   },
   {
-    "id": "612d4cdc5ff2a10616150b1e20c147e30a9667c3",
-    "address": "http://95.216.225.98:26657",
-    "last_contact_height": 6766806,
-    "last_contact_date": "2021-06-30T14:18:54.418433033+02:00",
-    "updated_at": "2021-06-30T14:18:54.418433341+02:00",
+    "id": "5d2493885f9b236ab1d24fbd0e822efae05c2ec8",
+    "address": "http://168.119.33.108:26657",
+    "last_contact_height": 6766886,
+    "last_contact_date": "2021-06-30T14:28:49.282126742+02:00",
+    "updated_at": "2021-06-30T14:28:49.282127245+02:00",
     "reachable": true
   },
   {
-    "id": "a6f325ea73533648fd3176e612915a83e2a2572f",
-    "address": "http://139.59.70.20:26657",
-    "last_contact_height": 6766801,
-    "last_contact_date": "2021-06-30T14:18:54.743302841+02:00",
-    "updated_at": "2021-06-30T14:18:54.743303266+02:00",
+    "id": "66159ab8d2646fc269ba52093af19aa1e3ed090e",
+    "address": "http://206.189.106.123:26657",
+    "last_contact_height": 6766886,
+    "last_contact_date": "2021-06-30T14:28:49.286057297+02:00",
+    "updated_at": "2021-06-30T14:28:49.286057971+02:00",
     "reachable": true
   },
   {
-    "id": "cbd79ed2b90092b84c8d0bffb7604b3c7756798a",
-    "address": "http://95.216.1.108:26657",
-    "last_contact_height": 6766806,
-    "last_contact_date": "2021-06-30T14:18:54.423946842+02:00",
-    "updated_at": "2021-06-30T14:18:54.423947256+02:00",
+    "id": "777bdce9c445eb032d123b395dce384c6ad67b43",
+    "address": "http://161.35.135.219:26657",
+    "last_contact_date": "2021-06-30T14:28:49.36656616+02:00",
+    "updated_at": "2021-06-30T14:28:49.366566459+02:00",
     "reachable": true
   },
   {
-    "id": "ecabafa929464f54e91a61b3eaaf2db62709baa0",
-    "address": "http://116.203.57.175:26657",
-    "last_contact_height": 6766806,
-    "last_contact_date": "2021-06-30T14:18:54.401493492+02:00",
-    "updated_at": "2021-06-30T14:18:54.401493847+02:00",
+    "id": "7ecef76384bd00c0cbe90f7133d7d6dd8aa36dfe",
+    "address": "http://34.91.93.201:26657",
+    "last_contact_height": 6766886,
+    "last_contact_date": "2021-06-30T14:28:49.286570237+02:00",
+    "updated_at": "2021-06-30T14:28:49.286570676+02:00",
+    "reachable": true
+  },
+  {
+    "id": "8d4d8db717f3bf1cd95603502731df43d01b9c8a",
+    "address": "http://108.61.155.152:26657",
+    "last_contact_height": 6766886,
+    "last_contact_date": "2021-06-30T14:28:49.395852324+02:00",
+    "updated_at": "2021-06-30T14:28:49.395852839+02:00",
+    "reachable": true
+  },
+  {
+    "id": "9c5d6fb8eb64bfed118c7f17c14b4bab6d7ca357",
+    "address": "http://51.210.154.28:26657",
+    "last_contact_height": 6748056,
+    "last_contact_date": "2021-06-30T14:28:49.288573915+02:00",
+    "updated_at": "2021-06-30T14:28:49.288574438+02:00",
+    "reachable": true
+  },
+  {
+    "id": "a7497dad923a06e1c1b10b79f378edb148b3d3c3",
+    "address": "http://23.90.70.40:26657",
+    "last_contact_height": 6766886,
+    "last_contact_date": "2021-06-30T14:28:49.585129726+02:00",
+    "updated_at": "2021-06-30T14:28:49.585130066+02:00",
+    "reachable": true
+  },
+  {
+    "id": "bf8328b66dceb4987e5cd94430af66045e59899f",
+    "address": "http://159.203.104.207:26657",
+    "last_contact_height": 6766885,
+    "last_contact_date": "2021-06-30T14:28:49.3948688+02:00",
+    "updated_at": "2021-06-30T14:28:49.394869177+02:00",
+    "reachable": true
+  },
+  {
+    "id": "cfd785a4224c7940e9a10f6c1ab24c343e923bec",
+    "address": "http://164.68.107.188:26657",
+    "last_contact_height": 6766886,
+    "last_contact_date": "2021-06-30T14:28:49.281926536+02:00",
+    "updated_at": "2021-06-30T14:28:49.281927036+02:00",
     "reachable": true
   }
 ]
