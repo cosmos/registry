@@ -1,3 +1,5 @@
+> # **ARCHIVED**: Work on this repo has moved to https://github.com/cosmos/chain-registry
+
 # Overview
 
 This repository holds data for chains in the cosmos ecosystem, the [registrar](https://github.com/cosmos/cosmos-registrar) can be used to submit chains to the registry.
